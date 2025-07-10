@@ -1,0 +1,2 @@
+Log entry A1
+Log entry A2
