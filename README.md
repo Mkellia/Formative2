@@ -53,6 +53,6 @@ What it does:
 - Thread-safe with pthread_mutex
 
 How to run:
-./q4 merged_log.txt file1.txt file2.txt <num_threads>
+./q4 merged_log.txt file1.txt file2.txt 2
 
 ---
