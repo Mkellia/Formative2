@@ -1,4 +1,4 @@
-Log entry A1
-Log entry A2
-Log entry B1
-Log entry B2
+B1
+B2
+A1
+A2

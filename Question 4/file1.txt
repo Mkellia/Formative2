@@ -1,2 +1,2 @@
-Log entry A1
-Log entry A2
+B1
+B2
